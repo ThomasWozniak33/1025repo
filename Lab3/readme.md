@@ -15,6 +15,8 @@ Helped reduce vendor lock-in
 ### Role of Hypervisor
 Separates physical resources form he virtual ones
 ## Python
+![python 1](https://user-images.githubusercontent.com/90080176/133915100-de790169-68d9-4113-8e36-7c62b3c341d7.PNG)
+![Python 2](https://user-images.githubusercontent.com/90080176/133915103-2f797923-b374-4426-a1df-d532b0e8bf84.PNG)
 ### Pseudo-Code Nature of Python
 This an AI for programmers develop algorithms they have rules like
 like
